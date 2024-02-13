@@ -1,3 +1,5 @@
+npm install chart.js
+
 async function main() {
 
     const timeChartCanvas = document.querySelector('#time-chart');
